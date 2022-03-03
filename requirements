@@ -1,5 +1,5 @@
 clvm==0.9.7
-clvm-rs==0.1.2
+clvm-rs==0.1.15
 clvm-tools==0.4.3
 flask==2.0.3
-
+aiohttp
